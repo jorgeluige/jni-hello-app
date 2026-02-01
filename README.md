@@ -10,3 +10,9 @@
 1. O Código Java (Main.java)
 2. Gerar o Cabeçalho C (.h) execute: javac -h . Main.java
 3. A Implementação em C (hello.c)
+
+- Eu compilei o hello.c usando o mingw-w64, no WSL, poderia ser o mingw-w64 no Windows ou mesmo usar Visual Studio da Microsoft  
+No seu terminal WSL (Ubuntu/Debian)
+sudo apt update
+sudo apt install mingw-w64
+
