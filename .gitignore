@@ -1,7 +1,7 @@
 # Compiled class files
 #
 *.class 
-hello.dll
+*.dll
 # Built application files
 *.jar
 *.war
