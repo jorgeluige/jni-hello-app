@@ -24,3 +24,5 @@ sudo apt install mingw-w64
 x86_64-w64-mingw32-gcc -shared -I"/mnt/c/Users/SEU_USER/Java/jdk-1.8/include" -I"/mnt/c/Users/SEU_USER/Java/jdk-1.8/include/win32" hello.c -o hello.dll
 ```
 
+<img width="351" height="213" alt="image" src="https://github.com/user-attachments/assets/f14afc12-7e03-4584-a3e1-a2a2e93d23e7" />
+
