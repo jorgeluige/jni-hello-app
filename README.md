@@ -16,8 +16,10 @@ No seu terminal WSL (Ubuntu/Debian)
 ```
 sudo apt update 
 sudo apt install mingw-w64
+```
 
 - Linha de comando para compilar o hello.c e gerar o hello.dll
 ```
 x86_64-w64-mingw32-gcc -shared -I"/mnt/c/Users/SEU_USER/Java/jdk-1.8/include" -I"/mnt/c/Users/SEU_USER/Java/jdk-1.8/include/win32" hello.c -o hello.dll
+```
 
